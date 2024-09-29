@@ -1,0 +1,177 @@
+v1 (sept13 11pm-12pm)
+NAME            gameW% matchW% #match
+Sounds Good     0.607  0.643   28  
+Big Three       0.333  0.500   2   
+Team Horizon    0.143  0.286   7   
+James Street    0.240  0.240   25  
+Winner          0.069  0.083   24  
+Mystic          0.071  0.071   14  
+Bagman          0.000  0.000   6   
+SillyCatA       0.111  0.000   6   
+
+v1 (sept16 1am-1:40am)
+NAME            gameW% matchW% #match
+Sounds Good     0.506  0.655   29  
+natu            0.167  0.500   2   
+Big Three       0.185  0.333   9   
+Mystic          0.222  0.333   3   
+Kartik          0.182  0.182   11  
+SillyCatA       0.238  0.143   14  
+a               0.250  0.125   8   
+Japan2025       0.131  0.071   28  
+TheBig4         0.083  0.000   4   
+Winner          0.000  0.000   3   
+<2 Brain Cells  0.000  0.000   3   
+Bagman          0.167  0.000   2   
+
+v1 (sept23 12pm-12:45pm)
+NAME            gameW% matchW% #match
+SillyCatA       0.333  0.500   2   
+Big Three       0.333  0.500   2   
+Sounds Good     0.353  0.460   50  
+727             0.333  0.333   6   
+a               0.319  0.298   47  
+Kartik          0.204  0.194   31  
+Mystic          0.133  0.160   25  
+Japan2025       0.122  0.033   30  
+Team Horizon    0.000  0.000   4   
+natu            0.333  0.000   2   
+TheBig4         0.000  0.000   1   
+
+w1 (sept25 8:18pm-9:10pm)
+NAME            gameW% matchW% #match
+Bagman          0.667  1.000   1   
+SCUTChinaNo1    0.333  0.500   2   
+Sounds Good     0.347  0.449   49  
+SillyCatA       0.417  0.312   16  
+Big Three       0.253  0.310   29  
+Tommy Team      0.167  0.250   4   
+Kartik          0.299  0.241   29  
+Mystic          0.194  0.167   12  
+a               0.167  0.125   8   
+727             0.167  0.000   6   
+Aperture Tech   0.062  0.000   32  
+TheBig4         0.000  0.000   1   
+4DS             0.000  0.000   1   
+Winner          0.000  0.000   1   
+Team Horizon    0.000  0.000   1   
+Wildflowers     0.000  0.000   1   
+James Street    0.167  0.000   2   
+BIG 2 DUTY FREE 0.333  0.000   1   
+
+w2 (sept25 10:50ish?)
+NAME            gameW% matchW% #match
+a               0.455  0.455   11  
+Big Three       0.267  0.400   5   
+Sounds Good     0.308  0.346   26  
+BIG 2 DUTY FREE 0.333  0.333   6   
+SillyCatA       0.333  0.333   3   
+Mystic          0.333  0.222   9   
+727             0.267  0.200   5   
+SCUTChinaNo1    0.278  0.167   6   
+Tommy Team      0.048  0.143   7   
+Kartik          0.143  0.143   7   
+Winner          0.071  0.071   14  
+Aperture Tech   0.083  0.000   4   
+Team Name       0.000  0.000   1   
+
+w1_recovered5 (sept26 but running for a long time)
+NAME            gameW% matchW% #match
+727             0.444  1.000   3   
+SillyCatA       0.500  1.000   2   
+SCUTChinaNo1    0.333  1.000   1   
+Big Three       0.833  1.000   2   
+James Street    0.500  0.750   4   
+Sounds Good     0.302  0.333   21  
+Bagman          0.333  0.250   4   
+4DS             0.242  0.182   11  
+Japan2025       0.143  0.143   7   
+TheBig4         0.083  0.000   8   
+Kartik          0.333  0.000   1   
+BIG 2 DUTY FREE 0.333  0.000   1   
+Tommy Team      0.167  0.000   2   
+Winner          0.111  0.000   3   
+natu            0.000  0.000   2   
+Mystic          0.333  0.000   1   
+Aperture Tech   0.000  0.000   2   
+ChasingTheBag   0.000  0.000   2   
+a               0.000  0.000   1   
+<2 Brain Cells  0.667  0.000   1   
+Team Name       0.000  0.000   1   
+Wildflowers     0.000  0.000   3   
+Team Horizon    0.333  0.000   1 
+
+w5 (sept27 1am)
+NAME            gameW% matchW% #match
+Mystic          0.583  0.875   8   
+a               0.452  0.500   14  
+SCUTChinaNo1    0.500  0.500   2   
+Sounds Good     0.407  0.439   41  
+SillyCatA       0.433  0.400   10  
+727             0.300  0.300   10  
+Team Horizon    0.222  0.167   6   
+Aperture Tech   0.076  0.091   22  
+4DS             0.000  0.000   3   
+Japan2025       0.167  0.000   2   
+Tommy Team      0.000  0.000   6   
+Wildflowers     0.000  0.000   3   
+88warriors      0.000  0.000   27  
+Kartik          0.222  0.000   3   
+Winner          0.000  0.000   1   
+ChasingTheBag   0.111  0.000   3   
+BIG 2 DUTY FREE 0.333  0.000   2   
+Team Name       0.000  0.000   1   
+
+w6.b
+NAME            gameW% matchW% #match
+Bagman          0.667  1.000   1   
+a               0.167  0.500   2   
+727             0.333  0.500   2   
+Sounds Good     0.333  0.357   14  
+BIG 2 DUTY FREE 0.278  0.333   6   
+Kartik          0.222  0.333   3   
+Team Horizon    0.292  0.250   8   
+Mystic          0.167  0.083   12  
+Aperture Tech   0.222  0.000   3   
+Tommy Team      0.000  0.000   2   
+TheBig4         0.000  0.000   1   
+Big Three       0.333  0.000   1   
+Wildflowers     0.000  0.000   1   
+
+v3
+NAME            gameW% matchW% #match
+SillyCatA       0.667  1.000   1   
+Bagman          0.400  0.800   5   
+Sounds Good     0.431  0.412   17  
+Team Horizon    0.250  0.250   4   
+Kartik          0.250  0.250   4   
+Mystic          0.139  0.167   12  
+BIG 2 DUTY FREE 0.167  0.167   6   
+88warriors      0.000  0.000   10  
+a               0.444  0.000   3   
+Tommy Team      0.000  0.000   1   
+727             0.333  0.000   1   
+SCUTChinaNo1    0.333  0.000   2   
+Aperture Tech   0.000  0.000   1   
+Wildflowers     0.000  0.000   1   
+
+v3 (for 1 tricks, never play second lowest)
+NAME            gameW% matchW% #match
+Bagman          0.333  0.500   4   
+727             0.333  0.500   2   
+Sounds Good     0.444  0.481   27  
+Tommy Team      0.250  0.375   8   
+Kartik          0.333  0.333   6   
+BIG 2 DUTY FREE 0.222  0.333   3   
+4DS             0.133  0.200   5   
+Aperture Tech   0.056  0.167   6   
+Team Horizon    0.375  0.125   8   
+Mystic          0.208  0.125   8   
+Japan2025       0.121  0.091   11  
+88warriors      0.000  0.000   7   
+TheBig4         0.000  0.000   1   
+Big Three       0.333  0.000   1   
+ChasingTheBag   0.067  0.000   10  
+a               0.333  0.000   1   
+
+'Team Name', 'SillyCatA', '<2 Brain Cells', 'Aperture Tech', 'Japan2025', 'Wildflowers', 'Bagman', 'Big Three', 'BIG 2 DUTY FREE', '727', '88warriors', 'SCUTChinaNo1', 'Mystic', 'a', 'Kartik', 'ChasingTheBag', 'Tommy Team', 'TheBig4', 'Team Horizon', 'Sounds Good', 'James Street', '4DS', 'Winner', 'natu'
